@@ -1,0 +1,16 @@
+{
+    "name": "roy404/laravel-commands",
+    "description": "A package for custom Laravel Artisan commands",
+    "autoload": {
+        "psr-4": {
+            "Developer\\LaravelConfigurations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ROBROY BUSTILLO CANALES",
+            "email": "canales.robroy123@gmail.com"
+        }
+    ],
+    "require": {}
+}
