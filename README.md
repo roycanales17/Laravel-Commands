@@ -14,6 +14,11 @@ composer require roy404/laravel-commands
     php artisan custom:docker
     ```
 
+   After the docker configurations installed, run the following command below to generate new app key:
+   ```shell
+   php artisan key:generate
+   ```
+
 2. **Setup Custom Authentication** <br>
    Generates authentication scaffolding with roles, admin, and user routes by default:
 
