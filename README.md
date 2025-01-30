@@ -19,7 +19,12 @@ composer require roy404/laravel-commands
    php artisan key:generate
    ```
 
-2. **Setup Custom Authentication** <br>
+   You can now build the image:
+   ```shell
+   docker-compose up --build
+   ```
+
+3. **Setup Custom Authentication** <br>
    Generates authentication scaffolding with roles, admin, and user routes by default:
 
    ```shell
