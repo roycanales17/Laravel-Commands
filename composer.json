@@ -3,7 +3,7 @@
     "description": "A package for custom Laravel Artisan commands",
     "autoload": {
         "psr-4": {
-            "Developer\\LaravelConfigurations\\": "src/"
+            "Roy404\\ArtisanCommands\\": "src/"
         }
     },
     "authors": [
